@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6d0a69a-8b28-49c5-8bbf-befacddf8d40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/AbstractClass/Animal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/AbstractClass/Fruit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/Animals/Chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/Animals/Tiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/Fruits/Apple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/Fruits/Orange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/InterfaceClass/Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract_Interface/TH1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH1/ArrayList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH1/listInteger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH2/LinkList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH2/LinkedListMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH2/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clean_Code/TH1/php-cleancode-refactoring-renaming/src/Calculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clean_Code/TH1/php-cleancode-refactoring-renaming/tests/CalculatorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Datastructures/SplStack/Stack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Datastructures/Square-Dancer/Dancer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Datastructures/Square-Dancer/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/2d-3d/Point2D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/2d-3d/Point3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/2d-3d/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Circle-Cylinder/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Circle-Cylinder/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Circle-Cylinder/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Point-MoveablePoint/MoveablePoint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Point-MoveablePoint/Point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Point-MoveablePoint/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack-Queue-Tree/Patient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack-Queue-Tree/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack-Queue-Tree/Stack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thuat-toan-tim-kiem/Dem-phan-tu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thuat-toan-tim-kiem/Game-doan-so/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thuat-toan-tim-kiem/MaxMin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Shape.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Shape.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/hinhhoc/Square.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hinhhoc/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/Application2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/Application2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kM78fL0Px0j8IflHgnzdkKPSiq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d0a69a-8b28-49c5-8bbf-befacddf8d40" name="Default Changelist" comment="" />
+      <created>1605498448778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605498448778</updated>
+      <workItem from="1605498450333" duration="1206000" />
+      <workItem from="1605508593990" duration="4477000" />
+      <workItem from="1605579441238" duration="65000" />
+      <workItem from="1605771378586" duration="1106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="328" y="273" width="457" height="568" key="NewPhpClassDialog" timestamp="1605771650622">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="328" y="273" width="457" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605771650622" />
+    <state x="329" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1605771752677">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="329" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605771752677" />
+    <state x="72" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1605498481921">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="72" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1605498481921" />
+    <state x="743" y="27" width="648" height="1009" key="dock-window-1" timestamp="1605509545156">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="743" y="27" width="648" height="1009" key="dock-window-1/72.27.1848.1053@72.27.1848.1053" timestamp="1605509545156" />
+  </component>
+</project>
